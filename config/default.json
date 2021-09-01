@@ -1,0 +1,11 @@
+{
+    "db-connection": {
+        "mongodb": {
+            "host": "cluster0.2oncd.mongodb.net",
+            "user": "my_first_db",
+            "password": "Y8wDYGvE38X7Ig8L",
+            "dbname": "s1"
+        }
+    },
+    "server-port": 8080
+}
